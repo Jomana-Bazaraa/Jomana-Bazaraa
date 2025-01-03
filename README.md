@@ -1,4 +1,4 @@
-👋 Hi, I’m Jomana Bazaraa
+# 👋 Hi, I’m Jomana Bazaraa
 - 👀 I’m interested in Data Science, AI, and Software Development in General
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Competitive Programming Competitions
